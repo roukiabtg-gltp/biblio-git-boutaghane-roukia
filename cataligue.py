@@ -1,1 +1,1 @@
-print("Bibliotheque Universitaire -v1.0")
+print("Bibliotheque Universitaire -v1.0 (correction affichage)")
